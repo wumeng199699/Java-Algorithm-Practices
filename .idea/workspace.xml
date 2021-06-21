@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="43a262d8-1892-47fd-a9ff-21983d4344a3" name="Default Changelist" comment="" />
+    <list default="true" id="43a262d8-1892-47fd-a9ff-21983d4344a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray/FindAllNumbersDisappearedinanArray2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HeightChecker/HeightChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ThirdMaximumNumber/ThirdMaximumNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1u4IR6DydFrySsJWMeJIESoTzKo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,13 +45,13 @@
       <recent name="DecoratorStream" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveElement2">
-    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MoveZeroes.MoveZeroes" />
+  <component name="RunManager" selected="Application.FindAllNumbersDisappearedinanArray">
+    <configuration name="FindAllNumbersDisappearedinanArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindAllNumbersDisappearedinanArray.FindAllNumbersDisappearedinanArray" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MoveZeroes.*" />
+          <option name="PATTERN" value="FindAllNumbersDisappearedinanArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicates2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesfromSortedArray.RemoveDuplicates2" />
+    <configuration name="HeightChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HeightChecker.HeightChecker" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RemoveDuplicatesfromSortedArray.*" />
+          <option name="PATTERN" value="HeightChecker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="removeDuplicates3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RemoveDuplicatesfromSortedArray.removeDuplicates3" />
+    <configuration name="ThirdMaximumNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ThirdMaximumNumber.ThirdMaximumNumber" />
       <module name="practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="RemoveDuplicatesfromSortedArray.*" />
+          <option name="PATTERN" value="ThirdMaximumNumber.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAllNumbersDisappearedinanArray" />
+        <item itemvalue="Application.ThirdMaximumNumber" />
+        <item itemvalue="Application.HeightChecker" />
         <item itemvalue="Application.RemoveElement2" />
         <item itemvalue="Application.SortArrayByParity" />
-        <item itemvalue="Application.MoveZeroes" />
-        <item itemvalue="Application.RemoveDuplicates2" />
-        <item itemvalue="Application.removeDuplicates3" />
       </list>
     </recent_temporary>
   </component>
@@ -126,7 +136,8 @@
       <workItem from="1624116426840" duration="7529000" />
       <workItem from="1624203514640" duration="73000" />
       <workItem from="1624203611044" duration="7530000" />
-      <workItem from="1624273645372" duration="17006000" />
+      <workItem from="1624273645372" duration="17608000" />
+      <workItem from="1624306831947" duration="6958000" />
     </task>
     <servers />
   </component>
@@ -142,22 +153,22 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="126" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.920@0.0.1440.920" timestamp="1623928135776" />
-    <state width="1397" height="239" key="GridCell.Tab.0.bottom" timestamp="1624299360591">
+    <state width="1397" height="239" key="GridCell.Tab.0.bottom" timestamp="1624313559535">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="239" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1624299360591" />
-    <state width="1397" height="239" key="GridCell.Tab.0.center" timestamp="1624299360591">
+    <state width="1397" height="239" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1624313559535" />
+    <state width="1397" height="239" key="GridCell.Tab.0.center" timestamp="1624313559535">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="239" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1624299360591" />
-    <state width="1397" height="239" key="GridCell.Tab.0.left" timestamp="1624299360591">
+    <state width="1397" height="239" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1624313559535" />
+    <state width="1397" height="239" key="GridCell.Tab.0.left" timestamp="1624313559535">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="239" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1624299360591" />
-    <state width="1397" height="239" key="GridCell.Tab.0.right" timestamp="1624299360591">
+    <state width="1397" height="239" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1624313559535" />
+    <state width="1397" height="239" key="GridCell.Tab.0.right" timestamp="1624313559535">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="1397" height="239" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1624299360591" />
+    <state width="1397" height="239" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1624313559535" />
     <state width="1397" height="300" key="GridCell.Tab.1.bottom" timestamp="1624211148211">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
@@ -174,10 +185,10 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state width="1397" height="300" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1624211148211" />
-    <state x="52" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1624273650829">
+    <state x="52" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1624306831897">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="52" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1624273650829" />
+    <state x="52" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1624306831897" />
     <state x="429" y="354" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1623931072271">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
